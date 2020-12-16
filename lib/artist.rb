@@ -4,5 +4,5 @@ class Artist
     @name = name
 end
 end
-halo = Artist.new("Beyonce")
-halo.name
+artist = Artist.new("Beyonce")
+artist.name
