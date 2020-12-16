@@ -7,4 +7,3 @@ class Song
 end
 halo = Artist.new("Beyonce")
 halo.artist
-
