@@ -5,4 +5,5 @@ class Song
   end
 end
 
-artist = Artist.new("Beyonce")
+artist = artist.new("Beyonce")
+artist.artist
